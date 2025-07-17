@@ -1,8 +1,13 @@
 # wallet_balance_and_payout_simulation
 
-A new Flutter project.
+
 
 ## Getting Started
+![Enter amount](https://github.com/user-attachments/assets/7f13c212-2e5a-4a52-81fb-c65d92f02908)
+![Confirm payout](https://github.com/user-attachments/assets/096652f8-757f-4014-a239-60d0b3bbcf64)
+![Transaction History](https://github.com/user-attachments/assets/5c38addf-55df-4352-a6cd-be834fab7879)
+![Wallet dashboard](https://github.com/user-attachments/assets/ea9d1876-197f-46cb-b633-c74cd41de847)
+
 
 This project is a starting point for a Flutter application.
 
